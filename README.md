@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello Traveller</h1>
 
 ###
 
-<h3 align="left">My name is Dragoș and I'm a front end developer, from Bucharest, Romania.</h3>
+<h3 align="left">My name is Dragoș and I'm a frontend developer, from Bucharest, Romania.</h3>
 
 ###
 
