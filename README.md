@@ -10,7 +10,8 @@
 
 ###
 
-<h4 align="left">I'm a recent engineering graduate, enthusiastic about the world of technology and passionate about web development. With a solid education in network and software engineering, I have acquired solid skills in problem solving and developing solutions. Determined and dedicated, I am looking for opportunities to contribute in the field of web development, where I can combine my technical knowledge with my creativity in order to develop innovative projects.</h4>
+<h4 align="left">Junior frontend developer, enthusiastic about the world of technology and passionate about web development. With a solid education in network and software engineering, I have acquired solid skills in problem solving and developing solutions. Determined and dedicated, I am looking for opportunities to contribute in the field of web development, where I can combine my technical knowledge with my creativity in order to develop innovative projects.
+</h4>
 
 ###
 
@@ -23,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/vuee-original.svg" height="40" alt="svelte logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
